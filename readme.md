@@ -1,5 +1,5 @@
 # Assignment
-Create a backend .NET API using this empty project (this repo) for this [frontend repository](https://github.com/vroomvroomeddy-dev/recruit-react/)
+Create a backend .NET API using this empty project (this repo) for this [frontend repository](https://github.com/vroomvroomeddy-dev/react/)
 
 Please note that you do not need to create the frontend code for this project unless specified, you simply need to prepare the backend service that would be used for the imaginary frontend.
 
